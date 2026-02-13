@@ -35,13 +35,13 @@ Clients are then ranked by payback period to support sales prioritization.
 - Financial modeling
 - Business-driven data prioritization
 
-KEY BUSINESS INSIGHT
+## KEY BUSINESS INSIGHT
 Client with:
 - Higher saving rates
 - Lower installation cost ratios
 Achieve faster payback periods and should be prioritized in sales strategy
 
-AUTHOR
+## AUTHOR
 Data analysis project focused on renewable energy financial modeling.
 
 
