@@ -11,6 +11,7 @@ The objective is to:
 
 ## BUSINESS CONTEXT
 Industrial companies often face high electricity costs and are unsure whether solar investment is financially viable.
+
 This model simulates a financial analysis workflow used by solar consultants to evaluate ROI and prioritize potential clients.
 
 ## METHODOLOGY
@@ -39,7 +40,7 @@ Clients are then ranked by payback period to support sales prioritization.
 Client with:
 - Higher saving rates
 - Lower installation cost ratios
-Achieve faster payback periods and should be prioritized in sales strategy
+Achieve faster payback periods and should be prioritized in sales strategy.
 
 ## AUTHOR
 Data analysis project focused on renewable energy financial modeling.
